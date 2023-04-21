@@ -1,25 +1,11 @@
 {
   "students": [
     {
-      "name": "mona",
-      "age": 24,
-      "email": "mona099@gmail.com",
-      "phone": 89786765,
-      "id": 1
-    },
-    {
-      "name": "weam",
-      "age": "23",
-      "email": "weamibrahim099@gmail.com",
-      "phone": "8766565",
-      "id": 2
-    },
-    {
       "name": "nour",
-      "age": "22",
+      "age": 34,
       "email": "nour@gmail.com",
-      "phone": "87876878",
-      "id": 3
+      "phone": 87876878,
+      "id": 1
     }
   ]
 }
